@@ -165,10 +165,12 @@ public class simplepet : MonoBehaviour
 
 ### 3.1B: Foutieve physics verkennen
 <img width="904" height="408" alt="image" src="https://github.com/user-attachments/assets/f6ef0455-a787-4928-9dad-d76fcda7185d" />
+
 dit is niet realistisch omdat de bal valt en niet stuitert
 
 ### 3.1C: Velocity, botsing en trigger-event
 <img width="830" height="458" alt="image" src="https://github.com/user-attachments/assets/93eae58a-a685-4dca-be9a-152382ab34ef" />
+
 als de bal het blok raakt wordt hij rood
 
 
