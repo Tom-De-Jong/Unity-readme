@@ -7,14 +7,14 @@ Goomba, coin en boo
 ![Peek 2025-10-02 13-01](https://github.com/user-attachments/assets/69118e65-fe42-4bf1-95ed-d48f69cc4712)
 
 
-Goomba
-[a link](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/goomba.cs)
 
-Boo
-[a link](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/booscript.cs)
+[Goomba script](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/goomba.cs)
+
+
+[Boo script](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/booscript.cs)
 
 Coin
-[a link](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/RotationScript.cs)
+[Coin script](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/RotationScript.cs)
 
 ------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Coin
 ### Virtual Pet
 
 ik heb het template van de les gebruikt en mijn eigen code toegevoegd:
-[a link](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/simple%20pet.cs)
+[Virtual pet script](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/simple%20pet.cs)
 
 ------------------------------------------------------------
 
