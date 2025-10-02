@@ -30,7 +30,8 @@ ik heb het template van de les gebruikt en mijn eigen code toegevoegd:
 ## Les 3.1
 
 ### Oefening 3.1A: Vallende bal met stuiter
-![Peek 2025-10-02 13-08](https://github.com/user-attachments/assets/d8add085-835e-429a-9c2b-1b561ad56dbc)
+![Peek 2025-10-02 13-10](https://github.com/user-attachments/assets/e218fe9f-e883-48e6-a72c-f1ba17679ef8)
+
 
 
 ### 3.1B: Foutieve physics verkennen
@@ -43,6 +44,7 @@ dit is niet realistisch omdat de bal valt en niet stuitert
 ![Peek 2025-10-02 13-08](https://github.com/user-attachments/assets/c0af64d0-2cd8-45e9-b8da-8af4f88a76c1)
 
 [Collision color change](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/collisionscript.cs)
+
 [Bal force script](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/Ballshootwe.cs)
 als de bal het blok raakt wordt hij rood
 
