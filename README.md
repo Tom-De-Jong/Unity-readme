@@ -58,32 +58,7 @@ ik heb een spell function gemaakt waarmee je met een functie spreuken in de cons
 
 <img width="754" height="37" alt="image" src="https://github.com/user-attachments/assets/d4d39346-8842-4356-9ca2-fed49ad40d5e" />
 
-Code
-
-```
-
-    void Start()
-    {
-        string Spreuk(string Namestr, int ManaCostint, string Effectstr, bool CanCastbool)
-        {
-
-            string Name = Namestr;
-            int ManaCost = ManaCostint;
-            string Effect = Effectstr;
-            bool CanCast = CanCastbool;
-
-            return "spreuk naam: " + Name + " ManaCost: " + ManaCost + " Effect: " + Effect + " Can cast:  " + CanCast;
-
-        }
-        void printOut()
-        {
-            Debug.Log(Spreuk("oenkoeboenkoe", 35, "speelt een audiafragment (oenkoeboenkoe) af", true));
-        }
-
-        printOut();
-    }
-
-```
+[Spreuk code](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/spellscript.cs)
 
 ------------------------------------------------------------
 
