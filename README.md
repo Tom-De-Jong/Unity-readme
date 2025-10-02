@@ -13,7 +13,7 @@ Goomba, coin en boo
 
 [Boo script](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/booscript.cs)
 
-Coin
+
 [Coin script](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/RotationScript.cs)
 
 ------------------------------------------------------------
