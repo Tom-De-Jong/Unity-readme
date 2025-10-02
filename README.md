@@ -30,16 +30,20 @@ ik heb het template van de les gebruikt en mijn eigen code toegevoegd:
 ## Les 3.1
 
 ### Oefening 3.1A: Vallende bal met stuiter
-<img width="904" height="408" alt="image" src="https://github.com/user-attachments/assets/26a76bee-c16f-464f-b293-d12dc02e5b74" />
+![Peek 2025-10-02 13-08](https://github.com/user-attachments/assets/d8add085-835e-429a-9c2b-1b561ad56dbc)
+
 
 ### 3.1B: Foutieve physics verkennen
-<img width="904" height="408" alt="image" src="https://github.com/user-attachments/assets/f6ef0455-a787-4928-9dad-d76fcda7185d" />
+![Peek 2025-10-02 13-11](https://github.com/user-attachments/assets/f3edffb4-03f8-447b-9ac0-1d9c7abc2cf5)
 
+ 
 dit is niet realistisch omdat de bal valt en niet stuitert
 
 ### 3.1C: Velocity, botsing en trigger-event
-<img width="830" height="458" alt="image" src="https://github.com/user-attachments/assets/93eae58a-a685-4dca-be9a-152382ab34ef" />
+![Peek 2025-10-02 13-08](https://github.com/user-attachments/assets/c0af64d0-2cd8-45e9-b8da-8af4f88a76c1)
 
+[Collision color change](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/collisionscript.cs)
+[Bal force script](https://github.com/Tom-De-Jong/Unity-readme/blob/main/Myproject/Assets/Scripts/Ballshootwe.cs)
 als de bal het blok raakt wordt hij rood
 
 ------------------------------------------------------------
